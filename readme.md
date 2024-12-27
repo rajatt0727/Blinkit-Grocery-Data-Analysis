@@ -1,4 +1,4 @@
-# BlinkIT Grocery Data Analysis
+# Grocery Store Sales and Inventory Optimization
 
 ## Overview
 This project involves the analysis of BlinkIT's grocery sales data using **Power BI** to uncover key insights into sales performance, customer preferences, and outlet efficiency. The goal is to leverage various KPIs (Key Performance Indicators) and visualizations to identify opportunities for optimization in inventory management, customer satisfaction, and sales strategies.
